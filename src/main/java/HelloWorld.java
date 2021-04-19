@@ -5,6 +5,7 @@ import java.util.LinkedList;
 public class HelloWorld extends JFrame{
     private JLabel lblMensagem;
     private JPanel panel1;
+    private JLabel lblMensagem2;
 
     public HelloWorld(String title) {
         super(title);
